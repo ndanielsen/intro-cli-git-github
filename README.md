@@ -1,6 +1,9 @@
 # Introduction to Commandline, Git and Github
 ## A Hack for LA Monthly Workshop
 
+Author : Nathan Danielsen [@nate_somewhere](https://twitter.com/nate_somewhere)
+
+
 ## Purpose
 
 Have you heard about github? Wonder why developers always seem to be typing into the terminal? Or are you developer that wants to enhance your skills and supercharge your development workflow?
@@ -17,15 +20,10 @@ In the git section, we will learn the basics of using git for version control to
 As for github, we will introduce you to the purpose of github and demonstrate why is it incredibly popular for the software development community. In this section, we will show you how to copy project repositories to your local computer and how to use the commandline to push up your saved work to your public project.
 
 
-## Set Up Before workshop
+## Set Up Before Workshop
 
 - Create a github account at https://github.com/
 
 - Windows Users should install [git-scm](https://git-scm.com/)
 
 - Mac Users should [install git via these instructions](https://www.atlassian.com/git/tutorials/install-git)
-
-
-## Class Agenda
-
-Work in progress =)
