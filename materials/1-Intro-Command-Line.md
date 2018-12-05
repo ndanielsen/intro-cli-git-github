@@ -1,7 +1,7 @@
 # Introduction to the Command Line
 This document outlines some basic commands for the Unix command line.
 
-For Linux and OS X users, these should work in **Terminal**.  For Windows users, most of these will work in **Git SCM**.  
+For Linux and OS X users, these should work in **Terminal**.  For Windows users, most of these will work in **Git Bash**.  
 **Note**: Most of these commands will not work in the Windows Command Prompt.
 
 ### What is the command line?

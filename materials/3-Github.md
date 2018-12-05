@@ -61,7 +61,7 @@ You will also listed as a contributor to this workshop - thus making your first 
 - Make a comment in the issue: [Need List of Secret Powers](https://github.com/ndanielsen/intro-cli-git-github/issues/2)
 - Fork the `intro-cli-git-github` code repository on github.
 - Clone your `fork` on this repo onto your local machine.
-- Create a file with your github name in `contributors/`. (for example: `contributors/ndanielsen.txt`)
+- Create a file with your github name in `contributors/` (for example: `contributors/ndanielsen.txt`)
 - In that newly created file, write in what your secret power would be.
 - Commit and push that up to your repository on github.
 - Create a pull-request with that file into the workshop repository.

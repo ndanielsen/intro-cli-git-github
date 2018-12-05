@@ -27,3 +27,5 @@ As for github, we will introduce you to the purpose of github and demonstrate wh
 - Windows Users should install [git-scm](https://git-scm.com/)
 
 - Mac Users should [install git via these instructions](https://www.atlassian.com/git/tutorials/install-git)
+
+- Install a code editor such as: [atom](https://atom.io/), [sublime text](https://www.sublimetext.com/3), [vs code](https://code.visualstudio.com/)
