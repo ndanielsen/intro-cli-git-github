@@ -108,7 +108,7 @@ The relative path to the another HackforLa project on my computer is:
 ##### `mv`
 * `mv <current file location> <new file location>` will **m**o**v**e a file from its `<current file location>` to a `<new file location>`.
 * This is the same as dragging and dropping a file from one place to another.
-* `mv <current file name> <new file name>` renames a file.  You "move" it from one location, `<current file name>`, to another location, `<new file name>`, though it doesn't actually move locations.
+* `mv <current file name> <new file name>` renames a file by moving it.  You "move" it from one location, `<current file name>`, to another location, `<new file name>`, though it doesn't actually move locations.
 
 ##### `cp`
 * `cp <current file location> <new file location>` will **c**o**p**y a file from its `<current file location>` to a `<new file location>`, leaving the original file untouched.  
