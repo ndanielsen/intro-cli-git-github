@@ -34,11 +34,10 @@ For Linux/Mac users, the `man` command will give much more detailed information 
 
 ## File Paths
 
-What is a path?
-
 A path is the location of a file or directory on your computer. For example, the location of file on my computer is:
 
 `/Users/ndanielsen/Projects/intro-cli-git-github/materials/1-Intro-Command-Line.md`
+
 
 ##### Absolute File Paths
 An absolute file path specifies the path to a file assuming there is no knowledge of what your current working directory is.  This means the file path starts at the root directory.  For example, if you were to give someone directions from their house to your house, you would start by telling them to be on earth, then go to your continent, then go to your country, then go to your region, etc.
@@ -52,7 +51,15 @@ A relative file path specifies the path to a file taking into account what your 
 
 Given an absolute path of `/Users/ndanielsen/Projects/intro-cli-git-github`,
 
-The relative path to the another HackforLa project on my computer is:
+The current file path is a represented by `  .  `. For example, the path to a file in your current working directory is:
+
+`./README.md`
+
+From your current working director, the path to this `1-Intro-Command-Line.md` file from the `intro-cli-git-github` folder is:
+
+`./materials/1-Intro-Command-Line.md`
+
+The relative path to the another HackforLa project folder on my computer is:
 
 `../hackforla/spare`
 
