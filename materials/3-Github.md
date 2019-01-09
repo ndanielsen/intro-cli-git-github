@@ -74,3 +74,11 @@ You will also listed as a contributor to this workshop - thus making your first 
 
 [Hello World In Github](https://guides.github.com/activities/hello-world/)
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+#### Github Alternatives
+
+Here are a few well known github competitors.
+
+[Bitbucket](https://bitbucket.org/) 
+[Gitlab](https://about.gitlab.com/)
+[Source Forge](https://sourceforge.net/)
