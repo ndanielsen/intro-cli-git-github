@@ -65,3 +65,12 @@ You will also listed as a contributor to this workshop - thus making your first 
 - In that newly created file, write in what your secret power would be.
 - Commit and push that up to your repository on github.
 - Create a pull-request with that file into the workshop repository.
+
+### Extra Credit
+- Instead of a text file, create a [markdown document](https://guides.github.com/features/mastering-markdown/) instead.
+
+
+#### Resources
+
+[Hello World In Github](https://guides.github.com/activities/hello-world/)
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)

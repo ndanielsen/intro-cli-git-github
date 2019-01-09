@@ -149,3 +149,14 @@ The relative path to the another HackforLa project folder on my computer is:
 ## Advanced Command Line and Homework
 
 In `4-Command-Line-Advanced.md`, I have provided more advanced command line exercises and a few exercises to test your knowledge!
+
+
+## Resources
+[Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+A concise crash course for the CLI by the author of Learn Python the Hardway
+
+[GNU Bash manual](https://www.gnu.org/software/bash/manual/)
+Write simple yet powerful scripts using bash.
+
+[Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/)
+Another language for writing powerful scripts using awk.
