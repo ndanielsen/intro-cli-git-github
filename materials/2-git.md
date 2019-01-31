@@ -33,7 +33,10 @@ Let's create a file and store it in git.
 ```
 # Exercise
 
-Create a file named `sauces.txt`, add it to git staging and then commit it with a message.
+- Create a file named `sauces.txt`
+- Add it to git staging
+- Commit it with a message
+- Check that it made it in!
 
 ## Other Common Workflows
 
