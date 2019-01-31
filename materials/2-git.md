@@ -31,6 +31,10 @@ Let's create a file and store it in git.
   $ git log
 
 ```
+# Exercise
+
+Create a file named `sauces.txt`, add it to git staging and then commit it with a message.
+
 
 ### Changing a File
 
