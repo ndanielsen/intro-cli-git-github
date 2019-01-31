@@ -1,5 +1,5 @@
 # Introduction to Commandline, Git and Github
-## A Hack for LA Monthly Workshop
+## A Workshop to Get You Started
 
 Author : Nathan Danielsen [@nate_somewhere](https://twitter.com/nate_somewhere)
 
