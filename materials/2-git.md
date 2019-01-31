@@ -16,7 +16,7 @@ Let's navigate to our ~/Desktop, create a new project and initialize git.
   $ git init
 
 ```
-## Common Workflow
+## Most Common Workflow
 
 ### Adding a File to git
 
@@ -35,6 +35,7 @@ Let's create a file and store it in git.
 
 Create a file named `sauces.txt`, add it to git staging and then commit it with a message.
 
+## Other Common Workflows
 
 ### Changing a File
 
