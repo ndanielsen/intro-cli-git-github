@@ -73,7 +73,9 @@ You will also listed as a contributor to this workshop - thus making your first 
 #### Resources
 
 [Hello World In Github](https://guides.github.com/activities/hello-world/)
+
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 [Am I ready to Open Source This?](https://gist.github.com/ndanielsen/ae7330dea721597f9647ae0de8689744)
 
 #### Github Alternatives
