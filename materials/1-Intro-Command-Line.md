@@ -121,11 +121,18 @@ The relative path to the another HackforLa project folder on my computer is:
 * `cp <current file location> <new file location>` will **c**o**p**y a file from its `<current file location>` to a `<new file location>`, leaving the original file untouched.  
 * This is different from `mv` in that you are creating a new file and putting it somewhere rather than just moving the current file.
 
-##### `zip`/`unzip`
+##### `zip`/`unzip` (Mac Users)
 * `zip <zipped file> <original file>` will zip/compress the `<original file>` into a `<zipped file>`.
 * `zip -r <zipped file> <original folder>` will zip/compress the `<original folder>` and all of its files into a `<zipped file>`.
 * **Note**:  A list of files and folders, separated by spaces, can be zipped into one zipped file with `zip -r <zipped file> <original file 1> <original folder 2> ...`.
 * `unzip <file>` will unzip/uncompress a file.
+
+##### `gzip`/`gunzip` (Windows Users)
+* `gzip <filename>` will compress the `<filename>` into `<filename>.gz`
+* `gzip -r <original folder>` will compress all of the individual files of original folder
+* `gunzip <filename>.gz` will uncompress the zipped file
+
+
 
 ## Exercise
 * Create an empty directory called `test`.
