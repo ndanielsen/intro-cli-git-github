@@ -113,7 +113,7 @@ The relative path to the another HackforLa project folder on my computer is:
 * **Note**: The `-r` option means **r**ecursive.  It's often needed for operations on a folder.
 
 ##### `mv`
-* `mv <current file location> <new file location>` will **m**o**v**e a file from its `<current file location>` to a `<new file location>`.
+* `mv <current file location> <new file location>` will **m**o**v**e a file from its `<current file location>` to a `<new file location>`. Don't forget the `/` if the `<new file location>` is a folder.
 * This is the same as dragging and dropping a file from one place to another.
 * `mv <current file name> <new file name>` renames a file by moving it.  You "move" it from one location, `<current file name>`, to another location, `<new file name>`, though it doesn't actually move locations.
 
