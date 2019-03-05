@@ -145,9 +145,6 @@ Now that we have added some gelato in a separate branch (body of work) of our co
 
 Here are a few other resources that might be helpful for diving deeper into git.
 
-
-The `Pro Git` e-book
-`https://git-scm.com/book/en/v2`
-
-What is a commit?
-`https://chris.beams.io/posts/git-commit/`
+- The `Pro Git` e-book[https://git-scm.com/book/en/v2]
+- (What is a commit?)[https://chris.beams.io/posts/git-commit/
+]
