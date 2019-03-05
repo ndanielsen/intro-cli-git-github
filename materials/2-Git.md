@@ -24,8 +24,15 @@ We need to tell git who we are.
 ```
   $ git config --global user.name "Nathan Danielsen"
   $ git config --global user.email "nathan.danielsen@gmail.com"
+```
+
+Let's check that it made it in,
 
 ```
+  $ git config --global user.name
+  $ git config --global user.email
+```
+
 
 ## Most Common Workflow
 
