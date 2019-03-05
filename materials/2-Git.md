@@ -16,6 +16,17 @@ Let's navigate to our ~/Desktop, create a new project and initialize git.
   $ git init
 
 ```
+
+### A Little Set Up Required
+
+We need to tell git who we are. 
+
+```
+  $ git config --global user.name "Nathan Danielsen"
+  $ git config --global user.email "nathan.danielsen@gmail.com"
+
+```
+
 ## Most Common Workflow
 
 ### Adding a File to git
