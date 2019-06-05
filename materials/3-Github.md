@@ -68,7 +68,7 @@ You will also listed as a contributor to this workshop - thus making your first 
 
 ### Extra Credit
 - Instead of a text file, create a [markdown document](https://guides.github.com/features/mastering-markdown/) instead.
-
+- [Course Evaluation](https://tinyurl.com/la-tech-workshop) - let me know how I did and how to make this workshop better.
 
 #### Resources
 
