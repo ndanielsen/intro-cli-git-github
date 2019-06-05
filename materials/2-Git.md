@@ -107,45 +107,68 @@ Sometimes we accidentally add a file(s) to be committed by mistake. We can reset
 
 ```
 
+## Collaboration - Sharing Your Work on Github
 
-## Advanced
+Now that you have a git repository with some work. Let's share our icecream shop with the world.
 
-### Creating a branch
+Let's first visit Github.com and choose to create a "New Repository" by selecting it from the plus icon in the upper right corner.
 
-Often, we might be working with others but don't want to step on each others toes and cause conflicts. In git, we use branches to work in parallel and then merge our code together.
+Next on the "Create a new repository" screen, let's:
 
-```
-
- $ git branch
- $ git branch add-some-gelato
- $ git branch
- $ git checkout add-some-gelato
- $ git branch
- $ touch gelato.txt
- $ git add gelato.txt
- $ git status
- $ git commit -m 'adding gelato to the shop'
-
-```
+- Make the respository name "ice-cream-shop"
+- Press the "Create repository" Button
 
 
-### Merge A Branch
+#### Congrats, you've created your first repository
 
-Now that we have added some gelato in a separate branch (body of work) of our code, let's merge it into the master branch.
+Now let's share your icecream show with the world.
 
-```
- $ git checkout master
- $ git merge add-some-gelato
- $ ls
+## Exercise
 
-```
+Follow the instructions in this section "…or push an existing repository from the command line"
+
+## Deep Dive Into Collaboration with Git
+
+Now that you've set up your `ice-cream-shop` repository on github, let's explore the how and why that worked.
+
+#### What is a remote in git?
+
+Type in your terminal: 
+
+`git remote`
+
+Let's use the commandline to learn a little more about `git remote`
+
+`git remote --verbose`
 
 
-### Resources
+### Exercise
 
-Here are a few other resources that might be helpful for diving deeper into git.
+1) Can you figure out what is the command to "show remote url after name?"
+2) What is url for `origin` in your git repository?
 
+Bonus:
+3) Can you figure out how to remove and add a remote to this repository?
+4) Add nathan's (ice-cream-shop)[https://github.com/ndanielsen/ice-cream-shop.git] as a remote named `ndanielsen`
+
+
+#### What is `git push`?
+
+Typical Format: `git push <remote> <branch>`
+
+The `git push` command is used to transfer your git commits on your working branch (ie master) to a remote location such as github.
+
+See "4-Git-Advanced.md" for more on branches.
+
+In another sense, `git push` is used to syncronize your work on local computer with that on the github website server.
+
+### Exercise
+
+- Create a file named `house_special.txt`
+- In that file, write down a special dessert that is contains icecream!
+- Add and commit that file to git
+- Send that file up to github (hint: how did you originally send up your repo to github?)
+
+### Further Reading
+- [Atlassian - git syncing](https://www.atlassian.com/git/tutorials/syncing)
 - [The `Pro Git` e-book](https://git-scm.com/book/en/v2)
-- [What is a commit?](https://chris.beams.io/posts/git-commit/)
-- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
-
