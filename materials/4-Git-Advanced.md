@@ -1,13 +1,13 @@
 
-# Advanced 
+# Git Advanced 
+
+Let's dive into some more advanced topics on using git.
 
 ## Git Branches
 
 A branch represents a different line or work that is separated from the `main` or `master` branch. It is a helpful mechanism for allowing multiple people to work on the same git repository (and github project) in potentially overlapping locations without stepping on too many toes.
 
 In git, we use branches to work in parallel and then merge our code together.
-
-
 
 Check out your current branch for your `ice-cream-shop` project.
 
@@ -48,6 +48,7 @@ hint: `git push <origin> <branch_name>`
 
 #### Protip: 
 You can create and checkout a branch in one command.
+
 ```
  $ git checkout -b some-branch`
 ```
@@ -80,6 +81,11 @@ Now that we have added some gelato in a separate branch (body of work) of our co
  $ ls
 
 ```
+
+### Protip
+
+Install [git-completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion) to make using git much easier.
+
 
 ### Resources
 
