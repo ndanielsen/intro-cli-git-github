@@ -61,7 +61,7 @@ From your current working director, the path to this `1-Intro-Command-Line.md` f
 
 The relative path to the another HackforLa project folder on my computer is:
 
-`../hackforla/spare`
+`../ice-crea-shop`
 
 
 ## Basic Commands
