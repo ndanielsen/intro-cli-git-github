@@ -9,7 +9,7 @@ The lesson materials are hosted on GitHub at https://github.com/ndanielsen/intro
 
 ## Typical Workflows on Github
 
-The typical workflow for a contributor to a new `Hack for La` Project is as follows:
+The typical workflow for a contributor to a `Open Source` Project is as follows:
 
 1. **Discover** a bug or a feature.
 2. **Discuss** with the project leads by [adding an issue](https://github.com/ndanielsen/intro-cli-git-github/issues).
@@ -22,7 +22,7 @@ The typical workflow for a contributor to a new `Hack for La` Project is as foll
 
 **Note**: Create a pull request as soon as possible, even before you've started coding. This will allow the Project Leads to give you advice about where to add your code or utilities and discuss other style choices and implementation details as you go. Don't wait!
 
-Many Hack-for-La projects believe that *contribution is collaboration* and therefore emphasize *communication* throughout the entire process. Project Leads rely heavily on GitHub's social coding tools to allow them to do this.
+Many `Open Source` projects believe that *contribution is collaboration* and therefore emphasize *communication* throughout the entire process. Project Leads (ie maintainers) rely heavily on GitHub's social coding tools to allow them to do this.
 
 ### Forking the Repository
 

@@ -141,12 +141,12 @@ The relative path to the another HackforLa project folder on my computer is:
 * Remove *one* of the previously created files.
 * Go up one directory and remove the `test` directory with the empty files in it.  **NOTE**:  Be careful and make sure you are removing the correct files!
 * Create an empty file called `test.txt`.  
-* Change the name to `civic_hacking_is_cool.txt`.
+* Change the name to `opensource_is_cool.txt`.
 * Create an empty file called `my_secrets.txt`.
 * Create a new directory called `my_diary`.  
 * Move the two previously created files into this directory.
-* Create a new directory called `my_blog`.  Copy the file `civic_hacking_is_cool.txt` from `my_diary` to `my_blog`.
-* Examine the files in `my_blog` to confirm that `civic_hacking_is_cool.txt` is there.
+* Create a new directory called `my_blog`.  Copy the file `opensource_is_cool.txt` from `my_diary` to `my_blog`.
+* Examine the files in `my_blog` to confirm that `opensource_is_cool.txt` is there.
 * Zip the folders `my_diary` and `my_blog` into a new file called `writings.zip`.
 * Delete the folders `my_diary` and `my_blog`.
 * Unzip `writings.zip` to get your folders back.
