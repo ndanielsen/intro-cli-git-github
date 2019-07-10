@@ -74,6 +74,8 @@ These might be helpful for you along your journey.
 * `:x` to write/save the file you are working on and e**x**it the text editor
 * `:q` to quit/exit the text editor.
 * I would not recommend doing a lot of work in VIM, though it is useful to be aware of.
+* Install `vimtutor` to learn vim
+* Download this starter `no_plugin.vim` for development use https://github.com/changemewtf/no_plugins/blob/master/no_plugins.vim
 
 #### Part I
 * Navigate to the directory where you cloned the `intro-cli-git-github` repository.
